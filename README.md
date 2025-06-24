@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Build AI-native backends with just Steps and Streams**
+🔥 A Modern Unified Backend Framework for APIs, Events and Agents 🔥
 
 [![Website](https://img.shields.io/badge/Website-motia.dev-blue?style=flat&logo=globe&logoColor=white&labelColor=000000)](https://www.motia.dev)
 [![Documentation](https://img.shields.io/badge/Docs-docs.motia.dev-green?style=flat&logo=gitbook&logoColor=white&labelColor=000000)](https://www.motia.dev/docs)
