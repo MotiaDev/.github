@@ -29,7 +29,7 @@ Motia is a modern backend framework that unifies APIs, background jobs, events, 
 Motia brings cohesion to the fragmented backend world with our core primitive: the Step. Think of Steps like React Components, but for backends.
 
 
-Read [our documentation](https://www.motia.dev/docs) and get started today: `npx motia create -i`
+Read [our documentation](https://www.motia.dev/docs) and get started today: `npx motia@latest create -i`
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MotiaDev/motia?style=flat&logo=github&logoColor=white&labelColor=000000)
 ![GitHub issues](https://img.shields.io/github/issues/MotiaDev/motia?style=flat&logo=github&logoColor=white&labelColor=000000)
