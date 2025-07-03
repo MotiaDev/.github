@@ -1,8 +1,13 @@
-# Motia
+<p align="center">
+  <!-- shows in LIGHT mode only -->
+  <img src="https://github.com/MotiaDev/motia/raw/main/assets/FLAT_BLUE_LOGO_MOTIA_dark.png#gh-dark-mode-only"  width="400" alt="Motia logo" />
+  <!-- shows in DARK mode only -->
+  <img src="https://github.com/MotiaDev/motia/raw/main/assets/FLAT_BLUE_LOGO_MOTIA_light.png#gh-light-mode-only" width="400" alt="Motia logo (dark)" />
+</p>
 
 <div align="center">
 
-🔥 A Modern Unified Backend Framework for APIs, Events and Agents 🔥
+🔥 A Modern Unified Backend Framework for APIs, Events, and Agents 🔥
 
 [![Website](https://img.shields.io/badge/Website-motia.dev-blue?style=flat&logo=globe&logoColor=white&labelColor=000000)](https://www.motia.dev)
 [![Documentation](https://img.shields.io/badge/Docs-docs.motia.dev-green?style=flat&logo=gitbook&logoColor=white&labelColor=000000)](https://www.motia.dev/docs)
@@ -32,7 +37,7 @@ Read [our documentation](https://www.motia.dev/docs) and get started today: `npx
 
 **Join thousands of developers building the future of backend development**
 
-![Backend is just a chain of steps](https://raw.githubusercontent.com/MotiaDev/.github/refs/heads/main/backend-is-a-network-of-steps.webp)
+![Motia-Architecture](https://github.com/MotiaDev/motia/raw/main/assets/motia-architecture-with-bg.png)
 
 </div>
 
