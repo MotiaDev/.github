@@ -1,8 +1,8 @@
 <p align="center">
   <!-- shows in LIGHT mode only -->
-  <img src="https://github.com/MotiaDev/motia/raw/main/assets/FLAT_BLUE_LOGO_MOTIA_dark.png#gh-dark-mode-only"  width="400" alt="Motia logo" />
+  <img src="https://github.com/MotiaDev/motia/raw/main/assets/motia-logo-light.png#gh-dark-mode-only"  width="400" alt="Motia logo" />
   <!-- shows in DARK mode only -->
-  <img src="https://github.com/MotiaDev/motia/raw/main/assets/FLAT_BLUE_LOGO_MOTIA_light.png#gh-light-mode-only" width="400" alt="Motia logo (dark)" />
+  <img src="https://github.com/MotiaDev/motia/raw/main/assets/motia-logo-dark.png#gh-light-mode-only" width="400" alt="Motia logo (dark)" />
 </p>
 
 <div align="center">
