@@ -37,8 +37,6 @@ Read [our documentation](https://www.motia.dev/docs) and get started today: `npx
 
 **Join thousands of developers building the future of backend development**
 
-![Motia-Architecture](https://github.com/MotiaDev/motia/raw/main/assets/motia-architecture-with-bg.png)
-
 </div>
 
 ## 🤝 Contributing
